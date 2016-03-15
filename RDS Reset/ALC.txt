@@ -1,1 +1,1 @@
-\Registry\machine\SYSTEM\CurrentControlSet\Control\Terminal Server\RCM\GracePeriod [1 6 17]
+\Registry\machine\SYSTEM\CurrentControlSet\Control\Terminal Server\RCM\GracePeriod [1 14 17]
